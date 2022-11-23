@@ -1,4 +1,3 @@
-# readme
 # 💫 About Me:
 🔭 Computer engineering in Brazil<br>🌱 Aspirant in CTF<br>⚡Instagram @duda.57
 
